@@ -1,0 +1,9 @@
+{
+  "name": "demo-design-system",
+  "version": "0.0.0",
+  "main": "src/global.css",
+  "files": [
+    "src",
+    "tokens"
+  ]
+}
