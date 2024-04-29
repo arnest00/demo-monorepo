@@ -1,0 +1,11 @@
+{
+  "name": "component-text-input",
+  "version": "0.0.0",
+  "main": "src/component-text-input.js",
+  "files": [
+    "src"
+  ],
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
