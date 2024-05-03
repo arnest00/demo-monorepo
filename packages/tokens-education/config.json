@@ -1,0 +1,13 @@
+{
+  "source": ["tokens/*.json"],
+  "platforms": {
+    "css": {
+      "transformGroup": "css",
+      "buildPath": "src/",
+      "files": [{
+        "destination": "education.css",
+        "format": "css/variables"
+      }]
+    }
+  }
+}

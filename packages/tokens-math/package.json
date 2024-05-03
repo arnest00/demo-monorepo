@@ -1,0 +1,9 @@
+{
+  "name": "tokens-math",
+  "version": "0.0.0",
+  "main": "src/math.css",
+  "files": [
+    "src",
+    "tokens"
+  ]
+}

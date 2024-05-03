@@ -5,7 +5,7 @@
       "transformGroup": "css",
       "buildPath": "src/",
       "files": [{
-        "destination": "global.css",
+        "destination": "reading.css",
         "format": "css/variables"
       }]
     }

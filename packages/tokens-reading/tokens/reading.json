@@ -1,0 +1,39 @@
+{
+  "rdg": {
+    "color": {
+      "brand": {
+        "500": {
+          "value": "{color.green.500}",
+          "type": "color",
+          "parent": "Reading/Mode 1",
+          "description": ""
+        }
+      },
+      "button": {
+        "background": {
+          "default": {
+            "value": "linear-gradient(180deg, #fee9a2 0%, #e2f8af 100%)",
+            "type": "color"
+          },
+          "hover": {
+            "value": "linear-gradient(180deg, #fee9a2 0%, #e2f8af 100%)",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "elevation": {
+      "accent": {
+        "value": {
+          "color": "#e2f8af",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 0,
+          "blur": 4,
+          "spread": 2
+        },
+        "type": "boxShadow"
+      }
+    }
+  }
+}

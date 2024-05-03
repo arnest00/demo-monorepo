@@ -1,0 +1,9 @@
+{
+  "name": "tokens-education",
+  "version": "0.0.0",
+  "main": "src/education.css",
+  "files": [
+    "src",
+    "tokens"
+  ]
+}
