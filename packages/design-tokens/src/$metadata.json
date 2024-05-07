@@ -1,0 +1,8 @@
+{
+  "tokenSetOrder": [
+    "primitives",
+    "education",
+    "math",
+    "reading"
+  ]
+}

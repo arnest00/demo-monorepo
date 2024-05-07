@@ -1,0 +1,39 @@
+{
+  "mat": {
+    "color": {
+      "brand": {
+        "500": {
+          "value": "{color.red.500}",
+          "type": "color",
+          "description": "",
+          "parent": "Math/Mode 1"
+        }
+      },
+      "button": {
+        "background": {
+          "default": {
+            "value": "linear-gradient(180deg, #ffe8e8 0%, #ffe3d1 100%)",
+            "type": "color"
+          },
+          "hover": {
+            "value": "linear-gradient(180deg, #feb6b3 0%, #fecba2 100%)",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "elevation": {
+      "accent": {
+        "value": {
+          "color": "#feb6b3",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 0,
+          "blur": 4,
+          "spread": 2
+        },
+        "type": "boxShadow"
+      }
+    }
+  }
+}

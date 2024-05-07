@@ -1,0 +1,604 @@
+{
+  "color": {
+    "red": {
+      "100": {
+        "value": "#ffe8e8",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "200": {
+        "value": "#feb6b3",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "300": {
+        "value": "#fb8b81",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "400": {
+        "value": "#f76958",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "500": {
+        "value": "#ef5139",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "600": {
+        "value": "#e03e22",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "700": {
+        "value": "#ba2c12",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "800": {
+        "value": "#5e1406",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "900": {
+        "value": "#050100",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      }
+    },
+    "orange": {
+      "100": {
+        "value": "#ffe3d1",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "200": {
+        "value": "#fecba2",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "300": {
+        "value": "#fbb775",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "400": {
+        "value": "#f7a850",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "500": {
+        "value": "#ef9c34",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "600": {
+        "value": "#e08e20",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "700": {
+        "value": "#ba7411",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "800": {
+        "value": "#5e3a05",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "900": {
+        "value": "#050300",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      }
+    },
+    "yellow": {
+      "100": {
+        "value": "#fff4d1",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "200": {
+        "value": "#fee9a2",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "300": {
+        "value": "#fbe075",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "400": {
+        "value": "#f7d850",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "500": {
+        "value": "#efcf34",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "600": {
+        "value": "#e0c120",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "700": {
+        "value": "#baa011",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "800": {
+        "value": "#5e5005",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "900": {
+        "value": "#050400",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      }
+    },
+    "green": {
+      "100": {
+        "value": "#f9ffe8",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "200": {
+        "value": "#e2f8af",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "300": {
+        "value": "#c3ec7a",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "400": {
+        "value": "#a1da4e",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "500": {
+        "value": "#7fbf2e",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "600": {
+        "value": "#5d9918",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "700": {
+        "value": "#3b6a0a",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "800": {
+        "value": "#1d3603",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "900": {
+        "value": "#030500",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      }
+    },
+    "blue": {
+      "100": {
+        "value": "#e8f0ff",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "200": {
+        "value": "#b3c6fe",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "300": {
+        "value": "#8198fb",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "400": {
+        "value": "#586cf7",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "500": {
+        "value": "#3947ef",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "600": {
+        "value": "#222be0",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "700": {
+        "value": "#1215ba",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "800": {
+        "value": "#06065e",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "900": {
+        "value": "#000005",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      }
+    },
+    "purple": {
+      "100": {
+        "value": "#f0e8ff",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "200": {
+        "value": "#d3b3fe",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "300": {
+        "value": "#be81fb",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "400": {
+        "value": "#b158f7",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "500": {
+        "value": "#a839ef",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "600": {
+        "value": "#9c22e0",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "700": {
+        "value": "#8112ba",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "800": {
+        "value": "#41065e",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "900": {
+        "value": "#040005",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      }
+    },
+    "grey": {
+      "100": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "200": {
+        "value": "#e0e0e0",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "300": {
+        "value": "#c1c1c1",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "400": {
+        "value": "#a1a1a1",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "500": {
+        "value": "#828282",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "600": {
+        "value": "#636363",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "700": {
+        "value": "#444444",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "800": {
+        "value": "#242424",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "900": {
+        "value": "#050505",
+        "type": "color",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      }
+    }
+  },
+  "text": {
+    "family": {
+      "mulish": {
+        "value": "Mulish",
+        "type": "text",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "inter": {
+        "value": "Inter",
+        "type": "text",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      }
+    },
+    "weight": {
+      "regular": {
+        "value": "25rem",
+        "type": "dimension",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "semibold": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      }
+    },
+    "size": {
+      "f-16": {
+        "value": "1rem",
+        "type": "dimension",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "f-18": {
+        "value": "1.125rem",
+        "type": "dimension",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "f-20": {
+        "value": "1.25rem",
+        "type": "dimension",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "f-24": {
+        "value": "1.5rem",
+        "type": "dimension",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "f-28": {
+        "value": "1.75rem",
+        "type": "dimension",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "f-32": {
+        "value": "2rem",
+        "type": "dimension",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "f-36": {
+        "value": "2.25rem",
+        "type": "dimension",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "f-42": {
+        "value": "2.625rem",
+        "type": "dimension",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      },
+      "f-48": {
+        "value": "3rem",
+        "type": "dimension",
+        "description": "",
+        "parent": "Primitives/Mode 1"
+      }
+    }
+  },
+  "scale": {
+    "s-0": {
+      "value": "0rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-2": {
+      "value": "0.125rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-4": {
+      "value": "0.25rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-6": {
+      "value": "0.375rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-8": {
+      "value": "0.5rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-12": {
+      "value": "0.75rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-16": {
+      "value": "1rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-20": {
+      "value": "1.25rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-24": {
+      "value": "1.5rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-28": {
+      "value": "1.75rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-32": {
+      "value": "2rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-40": {
+      "value": "2.5rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-48": {
+      "value": "3rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-56": {
+      "value": "3.5rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-64": {
+      "value": "4rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-72": {
+      "value": "4.5rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-80": {
+      "value": "5rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-88": {
+      "value": "5.5rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-96": {
+      "value": "6rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    },
+    "s-992": {
+      "value": "62rem",
+      "type": "dimension",
+      "description": "",
+      "parent": "Primitives/Mode 1"
+    }
+  }
+}
